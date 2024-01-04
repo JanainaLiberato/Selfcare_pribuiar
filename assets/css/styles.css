@@ -457,11 +457,9 @@ button{
   
 }
 
-.about__img{
-  width: 300px;
+.about__img{  
   justify-self: center;  
 }
-
 
 
 @media screen and (max-width:767px){
